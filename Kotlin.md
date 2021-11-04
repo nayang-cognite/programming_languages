@@ -1,5 +1,4 @@
 # Null Safety
-
 - ?. Safety call operator
 - ?: Elvis operator
 - !! not-null assertion operator
@@ -12,4 +11,6 @@ val l = b?.length ?: -1
 ?:
 !!
 ```
+# Type checks
+
 
